@@ -1,0 +1,2 @@
+Place your custom photos, screenshots, and resume.pdf into this assets/ directory.
+Then reference them in index.html as <img src="assets/your-photo.jpg">.
